@@ -39,8 +39,7 @@ npm start
 ## Built With
 
 * [Laravel](http://laravel.com) - The PHP Framework for Web Artisans
-* [Vuetify](https://vuetifyjs.com/) - Frontent JS Framework
-
+* [Vuetify](https://vuetifyjs.com/) - Material Design Component Framework
 
 ## Authors
 
